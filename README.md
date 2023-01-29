@@ -60,13 +60,17 @@ Horiseon Weboage wanted to upgrate their codebase and make sure that everything 
 
 
 ### Screenshot of deployed site
-![]()
+<img src="./assets/images/328227261_877740313272889_3599762711286401973_n.jpg">
 
 
 Web page
 
 
 # 🔗 Links
+
+https://goldie369.github.io/Code-Refactor/
+
+https://github.com/Goldie369/Code-Refactor
 
 
 MIT License
